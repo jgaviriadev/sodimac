@@ -20,6 +20,12 @@ Una aplicación Flutter desarrollada como prueba técnica para listar productos 
 
 - Flutter SDK 3.32.0
 
+## 📱 Descargar APK
+Puedes descargar la versión de prueba en formato APK aquí:
+
+👉 [Descargar app-sodimac.apk](https://drive.google.com/file/d/1G7z4JSCH1L4tfwIkLAEa44flraBeh857/view?usp=sharing)
+
+
 ## 🧪 Correr el proyecto
 
 ```bash
@@ -36,4 +42,5 @@ flutter pub run build_runner build --delete-conflicting-outputs
 # 4. Ejecutar la app
 flutter run
 
+### 📱 Descargar APK
 
